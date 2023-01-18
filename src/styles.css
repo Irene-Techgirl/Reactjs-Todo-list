@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+}
+button {
+  color: ghostwhite;
+  background-color: mediumblue;
+  border: none;
+  margin: 4px;
+}
+
+h1 {
+  color: mediumblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+  font-family: serif;
+}
+
+svg {
+  width: 25px;
+  position: relative;
+  bottom: 15px;
+  color: royalblue;
+}
+.svg2 {
+  color: red;
+  margin-left: 1px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+span {
+  display: flex;
+  justify-content: flex-end;
+}
+
+li {
+  margin-top: 5px;
+  padding-top: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+  border-color: palevioletred;
+  border-width: 2px;
+  font-weight: bold;
+}
